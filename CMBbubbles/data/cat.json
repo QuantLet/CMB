@@ -1,0 +1,804 @@
+{
+  "nodes": [
+{
+"id": "lapt30",
+"name": "AcerNote 760iC",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "elec07",
+"name": "Addiator Arithma",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "lapt01",
+"name": "Amstrad PPC512",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt25",
+"name": "iBook G3",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other36",
+"name": "Apple Newton MessagePad 120",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "desk01",
+"name": "Apple IIe",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk02",
+"name": "Macintosh IIfx",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk03",
+"name": "Apple Macintosh SE/30",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk04",
+"name": "Apple Macintosh 128k",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk05",
+"name": "Apple Macintosh Performa 5260/120",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk14",
+"name": "Macintosh IIcx",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk15",
+"name": "Macintosh Quadra 950",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk17",
+"name": "Power Macintosh 9500/132",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk24",
+"name": "Macintosh Performa 475",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk28",
+"name": "Apple Macintosh SE 1/20",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk30",
+"name": "iMac DV (indigo)",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "lapt09",
+"name": "Macintosh PowerBook 180",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt13",
+"name": "PowerBook 1400c/133",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt19",
+"name": "iBook G4",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt20",
+"name": "PowerBook G4",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other12",
+"name": "iPod",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "desk34",
+"name": "iMac G4",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other40",
+"name": "Apple graphics tablet",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt36",
+"name": "MacBook Pro",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk35",
+"name": "Apple Macintosh Classic",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk38",
+"name": "Apple PowerMac G4",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other61",
+"name": "iPad",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other35",
+"name": "Asus P65UP5 W/ C/P6ND ",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt03",
+"name": "Atari Portofolio",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other47",
+"name": "Atlas R300",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other43",
+"name": "Brother Procal 508AY",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "elec06",
+"name": "Brunsviga 13RK",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "other32",
+"name": "XploRe 2.0 Dialogues and Graphics",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other04",
+"name": "CASIO PC FX-730P",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other41",
+"name": "Casio FX-795P Pocket Computer",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other50",
+"name": "Casio Cassiopeia E-125 G",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt33",
+"name": "Kapok/Clevo notebook",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk27",
+"name": "Commodore C16",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk06",
+"name": "Commodore Amiga 500 Plus",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk07",
+"name": "Commodore PET",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other02",
+"name": "CTX Beamer",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "desk29",
+"name": "KC 85/2",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk31",
+"name": "Robotron A 5120",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk13",
+"name": "VEB KC 85/3",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other13",
+"name": "Lerncomputer LC80",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other45",
+"name": "SR1 (Schulrechner1)",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "prin02",
+"name": "Robotron K6304",
+"artist": "Printers",
+"playcount": 1
+},
+{
+"id": "desk18",
+"name": "Robotron 1715",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other46",
+"name": "Konkret 100",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "lapt06",
+"name": "Epson portable Q150A",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "elec03",
+"name": "Mellita, Model V/16",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "other57",
+"name": "Freecom Classic CD-Rom",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other58",
+"name": "Freecom Portable CD-RW",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "prin09",
+"name": "Fujitsu M3333D",
+"artist": "Printers",
+"playcount": 1
+},
+{
+"id": "elec01",
+"name": "Mechanical calculator MADAS",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "other34",
+"name": "ZX-Spectrum clone",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "lapt99",
+"name": "Compaq iPAQ Pocket PC",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "prin05",
+"name": "HP Deskjet 310",
+"artist": "Printers",
+"playcount": 1
+},
+{
+"id": "lapt40",
+"name": "HP Omnibook 800 CT",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk08",
+"name": "HP Apollo 9000 715/33",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "lapt08",
+"name": "HP OmniBook XE3",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt21",
+"name": "HP Compaq TC1100",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other11",
+"name": "HP-97",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "lapt07",
+"name": "Highscreen laptop",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt34",
+"name": "Colani Blue Note",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk09",
+"name": "IBM 386",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk10",
+"name": "IBM 5150",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk11",
+"name": "IBM PS/2",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk12",
+"name": "IBM PS/2E",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "lapt27",
+"name": "lenovo ThinkPad T60",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other09",
+"name": "Hard Disk Drive",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other21",
+"name": "Punched cards",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt39",
+"name": "IBM ThinkPad Type 2647 T21",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other52",
+"name": "Iomega Zip 100",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt24",
+"name": "Notebook Kapok 8700M",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "other53",
+"name": "TrackMan Wheel",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt12",
+"name": "Panasonic CF-41",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt38",
+"name": "Wind Hybrid Luxury",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt10",
+"name": "Multimedia Notebook Computer Model 86",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt05",
+"name": "Chicony PB 9350",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt16",
+"name": "Olivetti Quaderno PT-XT-20",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk26",
+"name": "People",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other48",
+"name": "Olympia CD60",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other15",
+"name": "Olympus Camedia C-410 L",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other17",
+"name": "Palm 3COM III ",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "desk25",
+"name": "Philips VG 8020",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other19",
+"name": "Privileg LC 10000 Super Timer",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other16",
+"name": "Original PRODUX calculator",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "other20",
+"name": "PSION SERIE 3",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other37",
+"name": "REISS Slide Rule",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other14",
+"name": "MR 201",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other31",
+"name": "Time CALCULATOR, MR 413",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "elec04",
+"name": "Calculator  Superautomat SASL",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "desk19",
+"name": "Schneider Euro PC",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "elec05",
+"name": "XxX calculator",
+"artist": "MC",
+"playcount": 1
+},
+{
+"id": "prin07",
+"name": "Sharp CE-150 Printer and cassette interface",
+"artist": "Printers",
+"playcount": 1
+},
+{
+"id": "prin08",
+"name": "Sharp CE-515P",
+"artist": "Printers",
+"playcount": 1
+},
+{
+"id": "other23",
+"name": "Sharp PC-1401",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other24",
+"name": "SHARP Pocket Computer PC-1246S",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other26",
+"name": "SHARP Pocket Computer PC-1403H",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "lapt26",
+"name": "Fujitsu Siemens Amilo Pi 1536",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt32",
+"name": "Siemens Scenic Mobile 710",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk20",
+"name": "SGI Indy",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other27",
+"name": "Sinclair ZX Spectrum Home Computer",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "lapt23",
+"name": "Sony Vaio PCG-R600HEP",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt31",
+"name": "Sony VAIOVGN-TZ11VN/X",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk21",
+"name": "SUN Sparc",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk22",
+"name": "Sun Ultra 5 Workstation",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other07",
+"name": "CPU Module for Sun Ultra 60 Workstation",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "desk33",
+"name": "SPARCstation 10",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "prin06",
+"name": "SPARC printer",
+"artist": "Printers",
+"playcount": 1
+},
+{
+"id": "server2",
+"name": "StorEdge A1000",
+"artist": "Servers",
+"playcount": 1
+},
+{
+"id": "server3",
+"name": "Sun Fire 880",
+"artist": "Servers",
+"playcount": 1
+},
+{
+"id": "server1",
+"name": "Sun Fire 280R Server",
+"artist": "Servers",
+"playcount": 1
+},
+{
+"id": "server4",
+"name": "Sun Enterprise 3500 Server",
+"artist": "Servers",
+"playcount": 1
+},
+{
+"id": "moni01",
+"name": "Sun LSA800",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "desk36",
+"name": "Sun Ultra 60 Workstation",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "desk37",
+"name": "Sun Blade 1000 Workstation",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "server5",
+"name": "Sun Fire 880 CPU / Memory Board",
+"artist": "Servers",
+"playcount": 1
+},
+{
+"id": "other60",
+"name": "Sun GWV Speaker Box",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other29",
+"name": "Texas Instruments SR-10",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other30",
+"name": "Texas Instruments TI 1750",
+"artist": "EC",
+"playcount": 1
+},
+{
+"id": "other55",
+"name": "Program cassettes of TIMEX SINCLAIR 1000 ",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "lapt11",
+"name": "Toshiba PII 300 MHz Notebook",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt15",
+"name": "Toshiba T5100",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt17",
+"name": "Toshiba T4400C",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt18",
+"name": "Toshiba Satellite 320CDT",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt22",
+"name": "Toshiba T5200/100",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "lapt35",
+"name": "Walkstation 386 SX",
+"artist": "Laptops",
+"playcount": 1
+},
+{
+"id": "desk23",
+"name": "Victor 9000",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "elec02",
+"name": "Walther DE 100",
+"artist": "Desktops",
+"playcount": 1
+},
+{
+"id": "other38",
+"name": "WOERLTRONIC acoustic coupler dataphone s21d-2",
+"artist": "Others",
+"playcount": 1
+},
+{
+"id": "other56",
+"name": "Mega Image 55cx",
+"artist": "Others",
+"playcount": 1
+}
+],
+  "links": [
+  ]
+}

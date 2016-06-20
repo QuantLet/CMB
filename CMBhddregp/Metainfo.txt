@@ -1,0 +1,17 @@
+Name of QuantLet : CMBhddregp
+
+Published in : Computing Machines
+
+Description : 'Plots results of regression with price per gigabyte of storage space 
+as dependent variable (CMBhddregp). Observations are plotted as scatter and regression 
+results are represented as blue line. The plot axes are customized.'
+
+Keywords : 'time series, regression, plot, graphical representation, visualization, data visualization'
+
+See also : CMBhddreg, MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal
+
+Author : Torsten van den Berg, Sophie Burgard
+
+Submitted : Wed, May 25 2016 by Torsten van den Berg
+
+Datafile : hddreg.rds
