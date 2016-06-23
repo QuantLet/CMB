@@ -6,7 +6,7 @@ Description : 'Plots results of regression with price per gigabyte of storage sp
 as dependent variable (CMBhddregp). Observations are plotted as scatter and regression 
 results are represented as blue line. The plot axes are customized.'
 
-Keywords : 'time series, regression, plot, graphical representation, visualization, data visualization'
+Keywords : 'time-series, regression, plot, graphical representation, visualization, data visualization'
 
 See also : CMBhddreg, MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal
 
