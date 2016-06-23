@@ -6,9 +6,8 @@ Description : 'Calculates parameters of log-linear regression between log(HDD pr
 HC3 standard errors are used. The R^2 value is also provided. 
 Furthermore, the data set is enriched by adding months as new variable.'
 
-Keywords : 'time series, regression, R-squared, testing, data adjustment
-empirical, estimation, heteroskedasticity, logarithmic, lognormal, model, parameter,
-preprocessing, test, time-series'
+Keywords : 'regression, R-squared, testing, data adjustment, empirical, estimation, heteroskedasticity, 
+logarithmic, lognormal, model, parameter, preprocessing, test, time-series'
 
 See also : MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal
 
