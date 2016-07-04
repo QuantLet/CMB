@@ -7,8 +7,8 @@ basic pattern matching.
 
 Data is written to CMBhddscrap.csv
 
-
 '''
+
 import os
 import re
 import csv

@@ -20,7 +20,6 @@ import requests
 import lxml.html
 import Levenshtein
 
-
 # Set path
 path     = ''
 basename = 'CMBcpuscrap'
@@ -36,7 +35,6 @@ def fetch_html(page_url, check_md5=False):
     '''Get HTML by URL, return as string.'''
     page_request = requests.get(page_url)
     page_content = page_request.text
-
 
     # Compare current and tested MD5 hash to identify changeg HTML
     if check_md5:
