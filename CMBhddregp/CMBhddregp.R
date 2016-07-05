@@ -6,13 +6,6 @@ graphics.off()
 setwd("")
 options(stringsAsFactors = FALSE)
 
-# install and load packages
-libraries = c()
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
-
 hdd.l  = readRDS("hddreg.rds")
 reg.lm = hdd.l$reg.lm
 hdd.df = hdd.l$hdd.df
@@ -36,7 +29,7 @@ lines(hdd.df$date,
       predict(reg.lm),
       lwd = 3, 
       lty = 1,
-      col = adjustcolor("blue", alpha.f = 1))
+      col = "blue")
 
 box(lwd = 2, 
     bty = 'l', 
@@ -94,3 +87,4 @@ segments(usr[1]+10,
          xpd = TRUE)
 
 #dev.off()
+
