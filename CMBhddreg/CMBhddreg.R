@@ -3,15 +3,15 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 # set working directory
-setwd("")
+#setwd("")
 options(stringsAsFactors = FALSE)
 
 # install and load packages
-libraries = c("sandwich", "lmtest", "zoo")
-lapply(libraries, function(x) if (!(x %in% installed.packages())) {
-    install.packages(x)
-})
-lapply(libraries, library, quietly = TRUE, character.only = TRUE)
+packages = c("sandwich", "lmtest", "zoo")
+invisible(lapply(packages, function(pkg) {
+    if (!is.element(pkg, installed.packages())) install.packages(pkg)
+    library(pkg, character.only = TRUE)
+}))
 
 # read data
 hdd.df = read.csv2("hdd.csv")
