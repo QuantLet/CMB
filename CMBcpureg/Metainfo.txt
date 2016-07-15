@@ -8,10 +8,10 @@ The R^2 value is also provided.'
 
 Keywords : 'time-series, regression, R-squared, testing, data adjustment,
 empirical, estimation, heteroskedasticity, logarithmic, lognormal, model,
-parameter, preprocessing, test'
+parameter, preprocessing, test, data, data set'
 
-See also : MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal,
-CMBcpuscrap, CMBcpuregp, CMBhddscrap, CMBhddreg, CMBhddregp, CMBbubbles
+See also : 'MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal,
+CMBcpuscrap, CMBcpuregp, CMBhddscrap, CMBhddreg, CMBhddregp, CMBbubbles'
 
 Author : Torsten van den Berg, Sophie Burgard
 
