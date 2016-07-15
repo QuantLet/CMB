@@ -74,17 +74,18 @@ segments(x.at,
          usr[3], 
          x.at,
          usr[3] - ((usr[4] - usr[3]) * 0.005), 
-         lwd = 4, 
-         col = "white", 
-         xpd = TRUE)
+         lwd  = 4,
+         lend = 2,
+         col  = "white", 
+         xpd  = TRUE)
 
 segments(usr[1]+10, 
          y.at,
          usr[1] - ((usr[2] - usr[1]) * 0.005), 
          y.at,
-         lwd = 4, 
-         col = "white", 
-         xpd = TRUE)
+         lwd  = 4,
+         lend = 2,
+         col  = "white", 
+         xpd  = TRUE)
 
 #dev.off()
-
