@@ -42,27 +42,31 @@ mtext("Price per GB",
       col  = "black",
       adj  = -0.2)
 
-# axis Labels ticks
-x.lab  = c("1980-01-01", "1985-01-01", "1990-01-01", "1995-01-01", "2000-01-01",
-           "2005-01-01", "2010-01-01")
-x.lab2 = c("1980", "1985", "1990", "1995", "2000", "2005", "2010")
-x.at   = as.Date(x.lab, "%Y-%m-%d")
+# axis tick labels
+x.from = as.Date("1980-01-01")
+x.to   = as.Date("2010-01-01")
+x.at   = seq(from=x.from, to=x.to, by="5 years")
+x.lab  = format(x.at, '%Y')
 
 axis(side     = 1,
      at       = x.at,
-     labels   = x.lab2,
+     labels   = x.lab,
      tick     = FALSE, 
      cex.lab  = 0.8, 
      line     = -0.7, 
      col.axis = "black")
 
-y.lab  = c(0.05,  3,  150,  8000,  440000)
-y.lab2 = c("0.05",  "3",  "150",  "8,000",  "440,000")
-y.at   = log(y.lab)
+y.pos = c(0.05,  3,  150,  8000,  440000)
+y.lab = formatC(y.pos,
+                big.mark      =',',             
+                formatC       ='f',
+                drop0trailing =TRUE)
+
+y.at  = log(y.pos)
 
 axis(side     = 2, 
      at       = y.at,
-     labels   = y.lab2,
+     labels   = y.lab,
      tick     = FALSE, 
      cex.lab  = 0.8, 
      line     = -0.8, 
