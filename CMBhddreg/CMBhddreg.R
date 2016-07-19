@@ -16,7 +16,7 @@ invisible(lapply(packages, function(pkg) {
 # read data
 hdd.df = read.csv2("hdd.csv")
 
-# date formatting 
+# date formatting
 # (day mostly missing, not important for further analysis, therefore dropped)
 hdd.df$date = as.Date(as.yearmon(hdd.df$date, "%Y %B"))
 
@@ -32,7 +32,7 @@ hdd.df = merge(hdd.df, month.df, by = "date")
 reg.lm  = lm(log(hdd.df$per.GB) ~ hdd.df$int)
 
 # coefficients
-print(coeftest(reg.lm, vcov. = vcovHC))
+coeftest(reg.lm, vcov. = vcovHC)
 
 # R^2
 paste("R^2:", summary(reg.lm)$r.squared)
