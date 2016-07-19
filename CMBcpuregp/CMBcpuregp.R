@@ -9,7 +9,7 @@ cpu.l  = readRDS('cpureg.rds')
 reg.lm = cpu.l$reg.lm
 cpu.df = cpu.l$cpu.df
 
-pdf('CMBcpuregp.pdf', width = 6.5, height = 2.8)
+#pdf('CMBcpuregp.pdf', width = 6.5, height = 2.8)
 
 par(mar = c(3, 5.5, 2.5, 4.8))
 
@@ -41,7 +41,6 @@ mtext('Transistor count',
       col  = 'black',
       adj  = -0.2)
 
-
 x.at = seq(1970, 2010, 10)
 
 axis(side     = 1,
@@ -53,11 +52,11 @@ axis(side     = 1,
 
 # y axis tick positions and formatted labels
 y.at  = seq(4, 10)
-y.lab = sapply(y.at, function(n) {10 ** n / 1000})
+y.lab = 10 ** y.at / 1000
 y.lab = format(y.lab,
-               big.mark     = ',',
-               scientific   = FALSE,
-               trim         = TRUE)
+               big.mark   = ',',
+               scientific = FALSE,
+               trim       = TRUE)
 
 y.lab = paste(y.lab, 'k', sep='')
 
@@ -70,7 +69,8 @@ axis(side     = 2,
      col.axis = 'black',
      las      = 1)
 
-usr  = par('usr')
+usr = par('usr')
+
 segments(x.at, 
          usr[3], 
          x.at,
@@ -89,4 +89,4 @@ segments(usr[1],
          col  = 'white', 
          xpd  = TRUE)
 
-dev.off()
+#dev.off()
