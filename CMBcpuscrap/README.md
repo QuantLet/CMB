@@ -9,9 +9,9 @@ Name of QuantLet: CMBcpuscrap
 
 Published in: Computing Machines
 
-Description: Extracts year of introduction and transistor count for
+Description: Extracts year of introduction and transistor count for Intel microprocessors introduced between 1971 and 2008 from the Intel Microprocessor Quick Reference Guide using XPath and pattern matching.
 
-Keywords: time-series, empirical, discrete, tree, distance, preprocessing,
+Keywords: time-series, empirical, discrete, tree, distance, preprocessing, data adjustment, transformation, data, text, web scraping, web data, parser, pattern matching, regular expressions, selection, data set, conditional, frequencies, html, dom, xpath
 
 See also: CMBhddreg, CMBhddregp, CMBbubbles, CMBhddscrap
 
