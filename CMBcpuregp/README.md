@@ -9,11 +9,11 @@ Name of QuantLet: CMBcpuregp
 
 Published in: Computing Machines
 
-Description: Plots results of log-linear regression between transistor count
+Description: Plots results of log-linear regression between transistor count and year. Observations are plotted as scatter and regression results are represented as blue line. The plot axes are customized.
 
-Keywords: time series, data, regression, plot, graphical representation,
+Keywords: time series, data, regression, plot, graphical representation, visualization, data visualization
 
-See also: MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal,
+See also: MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal, CMBcpuscrap, CMBcpureg, CMBhddscrap, CMBhddreg, CMBhddregp, CMBbubbles
 
 Author: Torsten van den Berg, Sophie Burgard
 
