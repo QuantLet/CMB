@@ -9,11 +9,11 @@ Name of QuantLet: CMBcpureg
 
 Published in: Computing Machines
 
-Description: Calculates parameters of log-linear regression between
+Description: Calculates parameters of log-linear regression between transistor count and year of introduction. HC3 standard errors are used. The R^2 value is also provided.
 
-Keywords: time-series, regression, R-squared, testing, data adjustment,
+Keywords: time-series, regression, R-squared, testing, data adjustment, empirical, estimation, heteroskedasticity, logarithmic, lognormal, model, parameter, preprocessing, test, data, data set
 
-See also: MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal,
+See also: MVAregbank, SFEtail, MVAbankrupt, BCS_Linreg, SFElognormal, CMBcpuscrap, CMBcpuregp, CMBhddscrap, CMBhddreg, CMBhddregp, CMBbubbles
 
 Author: Torsten van den Berg, Sophie Burgard
 
