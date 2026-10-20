@@ -9,7 +9,7 @@ Name of QuantLet: CMBbubbles
 
 Published in: Computing Machines
 
-Description: Visualizes a collection of computers clustered by various means
+Description: Visualizes a collection of computers clustered by various means using D3.js and CoffeeScript. On hovering brief information of the specific computer appears (including producer, model name and picture). A live example can be found at cm.wiwi.hu-berlin.de/viz. Extended upon original work by Jim Vallandingham.
 
 Keywords: data, web, html, interactive, data visualization, graphical representation, visualization, plot, clustering
 
