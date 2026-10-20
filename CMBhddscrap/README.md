@@ -9,9 +9,9 @@ Name of QuantLet: CMBhddscrap
 
 Published in: Computing Machines
 
-Description: Extracts year of introduction, capacity and pricing data
+Description: Extracts year of introduction, capacity and pricing data for hard drives from an online HTML table using basic pattern matching.
 
-Keywords: time-series, empirical, discrete, tree, distance, preprocessing,
+Keywords: time-series, empirical, discrete, tree, distance, preprocessing, data adjustment, transformation, data, text, web scraping, web data, parser, pattern matching, regular expressions, selection, data set, conditional, frequencies, html, dom, xpath
 
 See also: CMBhddreg, CMBhddregp, CMBbubbles, CMBcpuscrap
 
