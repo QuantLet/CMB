@@ -9,7 +9,7 @@ Name of QuantLet: CMBbubblesbuilder
 
 Published in: Computing Machines
 
-Description: Generates JSON files from a MySQL table to be used by
+Description: Generates JSON files from a MySQL table to be used by CMBbubbles for visualization using D3.js and CoffeeScript.
 
 Keywords: data, grouped, JSON, database, transformation, text, tree, table
 
