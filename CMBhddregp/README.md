@@ -9,7 +9,7 @@ Name of QuantLet: CMBhddregp
 
 Published in: Computing Machines
 
-Description: Plots results of regression with price per gigabyte of storage space
+Description: Plots results of regression with price per gigabyte of storage space as dependent variable (CMBhddregp). Observations are plotted as scatter and regression results are represented as blue line. The plot axes are customized.
 
 Keywords: time-series, regression, plot, graphical representation, visualization, data visualization
 
